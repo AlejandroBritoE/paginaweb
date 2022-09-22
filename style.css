@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#top{
+    text-align: center;
+}
+
+#logo{
+    color: rgb(251, 250, 252);
+    background-color: rgb(240, 52, 99);
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 20px;
+    
+}
+
+#logo-name{
+    font-size: 40px;
+    font-weight: bolder;
+    margin: 10px;
+}
+
+body{
+    font-family:'Times New Roman', Times, serif ;
+    background-color:rgb(204, 175, 233) ;
+    margin: 0;
+}
+
+#navegacion a{
+    color: rgb(78, 76, 76);
+    padding: 8px;
+}
+
+#navegacion a:hover{
+    color:rgb(240, 52, 99);
+}
+
+#imagen img{
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 5%;
+}
+
+#main{
+    max-width: 800px;
+    margin: auto;
+    padding: 16px;
+}
+
+#nosotros{
+    margin-bottom: 5%;
+}
+
+#nosotros h2{
+    margin-bottom: 2%;
+}
+
+#servicios h2{
+    margin-bottom: 2%;
+}
+
+#contacto{
+    margin-top: 5%;
+}
+
+#contacto h2{
+    margin-bottom: 2%;
+}
+
+footer{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
